@@ -1,0 +1,7 @@
+1. Logic puzzle:
+Chomp game
+You have an n by m chocolate bar and two players, the top left block is poisoned. Each player chooses a vertical line and eats all the blocks to the right of that or chooses a horizontal line and eats all the blocks below that line. The player who eats the poisoned block loses. Who wins? What's the winning strategy?
+
+2. Coding problem:
+Find the Missing Number
+You are given a list of n-1 integers and these integers are in the range of 1 to n. There are no duplicates in list. One of the integers is missing in the list. Write an efficient code to find the missing integer.
