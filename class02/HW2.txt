@@ -1,0 +1,22 @@
+1. Logic puzzle:
+a. We have two bags with arbitrary number of stones in each. There are two players who choose a bag and take out arbitrary number of stones from that bag in each turn. The player who runs out of stones loses. Who loses and why?
+
+2 eggs 100 floors
+b. Suppose that there is a building with 100 floors. You are given 2 identical eggs. The most interesting property of the eggs is that every egg has it’s own “threshold” floor. Let’s call that floor N. What this means is that the egg will not break when dropped from any floor below floor N, but the egg will definitely break from any floor above floor N, including floor N itself.
+For example, if the property of the eggs is that N equals 15, those eggs will always break on any floor higher than or equal to the 15th floor, but those eggs will never break on any floor below floor 15. The same holds true for the other egg since they are identical.
+
+These are very strong eggs, because they can be dropped multiple times without breaking as long as they are dropped from floors below their “threshold” floor, floor N. But once an egg is dropped from a floor above it’s threshold floor
+
+Here is the puzzle: What strategy should be taken in order to minimize the number of egg drops used to find floor N (the threshold floor) for the egg? Also, what is the minimum number of drops for the worst case using this strategy?
+
+Remember that you are given 2 identical eggs which both have the same exact threshold floor.
+
+2. Coding problem:
+Bubble sort
+Implement bubble sort for finding the maximum element of an array.
+Example: compare two adjacent indices (1,2 - 2,3 - ...). The max/min element propagates to the last index.
+5, 1, 2 -> 1, 5, 2 -> 1, 2, 5
+
+
+
+
