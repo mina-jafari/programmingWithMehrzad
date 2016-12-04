@@ -1,0 +1,10 @@
+1. Logic puzzle:
+Assume you have a chocolate bar consisting of a number of squares arranged in a rectangular pattern (m by n). Two players take turns. On a player’s turn, she must break the chocolate bar along any one of the horizontal or vertical lines. The player with no more break moves loses. Which player wins/loses and why?
+
+2. Programming problem:
+Tower of Hanoi:
+The tower of hanoi is a mathematical puzzle. It consists of three rods, and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top. The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
+    a. Only one disk can be moved at a time.
+    b. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
+    c. No disk may be placed on top of a smaller disk.
+https://en.wikipedia.org/wiki/Tower_of_Hanoi
