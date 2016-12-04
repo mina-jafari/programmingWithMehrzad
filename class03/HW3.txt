@@ -1,0 +1,6 @@
+1. Logic puzzle:
+Start with the sequence of non-zero digits from 1 to 100. Players 1 and 2 place plus or minus signs between the digits. If the result (sum) is even, player 1 wins, if the sum is odd, player 2 wins. What is the strategy to win?
+
+2. Coding problem:
+a. We have sorted arrays A and B with size n and m, respectively. Write a code to create an array C which is the sorted concatenation of arrays A and B.
+b. Given a sorted array A[] of n numbers and another number C, find all elements a and b of A[] such that a+b = C.
